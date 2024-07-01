@@ -53,7 +53,7 @@ JWT_SECRET=YOUR_SECRET
 ```
    
 2. Copy and paste `.env.example` file into `.env` file in your project 
-3. Create config/database/test.json to configuration of database test
+3. Create config.yaml to configuration of application
 ```bash 
 mkdir config/database/test.json  
 ```
