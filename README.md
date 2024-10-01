@@ -1,5 +1,4 @@
 # Online-Shop  
-Online shop is a task to finished submission from Synapsis.id.
 
 ## Main Feature
 ### 1. Auth <br>
